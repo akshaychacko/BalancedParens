@@ -1,4 +1,3 @@
-// Project Identifier: 1CAEF3A0FEDD0DEC26BA9808C69D4D22A9962768
 
 #include <deque>
 #include <iostream>
